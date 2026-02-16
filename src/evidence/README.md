@@ -1,8 +1,8 @@
-===========================================
-# GAME RULES
-===========================================
+==========================================================================
+# Evidence
+==========================================================================
+Rules:
+- Name evidence by phase: `phase-1_...`, `phase-2_...`
+- Mask sensitive data when necessary.
 
-## E.G: 
-### Masked data screenshots
-### File names pattern
-### Proof for each phase
+- Each piece of evidence must indicate which requirement/policy it proves.
