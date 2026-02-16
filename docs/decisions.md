@@ -1,3 +1,19 @@
+============================================================================
+# Project Decisions
+============================================================================
+
+## [2026-02-16] Decision: Scope closed by phases
+- Context: avoid infinite scope and the project becoming a "mini-SOC".
+- Decision: only ID + CA + (optional) Intune + Python report are included.
+- Trade-off: fewer features now, more consistency and delivery.
+- Rejected alternatives: include Sentinel/detections from the beginning.
+
+## [2026-02-16] Decision: Evidence as part of "done"
+- Context: without evidence, it seems like progress has been made, but it proves nothing.
+- Decision: every phase requires evidence/ + documented decision.
+- Trade-off: more documentation work, much more portfolio value.
+
+
 ==========================================================================
 # Decisões do Projeto
 ==========================================================================
